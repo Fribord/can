@@ -44,7 +44,7 @@
 
 -record(s, 
 	{
-	  name::string(),
+	  name::string() | undefined,
 	  receiver={can_router, undefined, undefined} ::
 	    {Module::atom(), %% Module to join and send to
 	     Pid::pid() | undefined,     %% Pid if not default server
