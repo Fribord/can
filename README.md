@@ -31,9 +31,9 @@ can is built using rebar that can be found [here](https://github.com/rebar/rebar
 
 can also requires the following applications to be installed:
 <ul>
-<li>dthread - https://github.com/tonyrog/dthread</li>
-<li>uart - https://github.com/tonyrog/uart</li>
-<li>lager - https://github.com/basho/lager</li>
+<li>dthread - https://github.com/HocYachts/dthread</li>
+<li>uart - https://github.com/HocYachts/uart</li>
+<li>lager - https://github.com/HocYachts/lager</li>
 </ul>
 
 ### Downloading
@@ -41,7 +41,7 @@ can also requires the following applications to be installed:
 Clone the repository in a suitable location:
 
 ```sh
-$ git clone git://github.com/tonyrog/can.git
+$ git clone git://github.com/HocYachts/can.git
 ```
 ### Configurating
 
